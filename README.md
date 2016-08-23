@@ -1,6 +1,6 @@
-#Basic Project
+#Inheritance Project
 
-*Simple Java Project*
+*Inheritance Project*
 
 **Java 7
 
